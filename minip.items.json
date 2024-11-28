@@ -1,0 +1,76 @@
+[
+  {
+    "_id": { "$oid": "6561d5098d729ba44d141d4b" },
+    "category": "Electronics",
+    "item": "Smartphone",
+    "qty": 10,
+    "price": 800,
+    "description": "Smartphone with advanced features."
+  },
+  {
+    "_id": { "$oid": "6561d5098d729ba44d141d4c" },
+    "category": "Clothing",
+    "item": "T-Shirt",
+    "qty": 0,
+    "price": 25,
+    "description": "Comfortable cotton T-shirt."
+  },
+  {
+    "_id": { "$oid": "6561d5098d729ba44d141d4d" },
+    "category": "Clothing",
+    "item": "Jeans",
+    "qty": 15,
+    "price": 50,
+    "description": "Stylish denim jeans."
+  },
+  {
+    "_id": { "$oid": "6561d5098d729ba44d141d4e" },
+    "category": "Furniture",
+    "item": "Table",
+    "qty": 3,
+    "price": 150,
+    "description": "Wooden dining table."
+  },
+  {
+    "_id": { "$oid": "6561d5098d729ba44d141d4f" },
+    "category": "Furniture",
+    "item": "Chair",
+    "qty": 11,
+    "price": 83,
+    "description": "Comfortable armchair."
+  },
+  {
+    "_id": { "$oid": "656476cbaf26e5f686e84085" },
+    "category": "Human",
+    "item": "Niga",
+    "qty": 12,
+    "price": 69,
+    "description": "Human character with unique qualities."
+  },
+  {
+    "_id": { "$oid": "65647cb5af26e5f686e84087" },
+    "category": "Human",
+    "item": "Malik",
+    "qty": 99,
+    "price": 0,
+    "description": "Human character with special abilities."
+  },
+  {
+    "_id": { "$oid": "656c81a50c7dd7de847c851e" },
+    "category": "Clothing",
+    "item": "Sweater",
+    "qty": 124,
+    "price": 899,
+    "description": "Woolen Knit"
+  },
+  {
+    "_id": {
+      "$oid": "656c8d10b849d89e883dd65d"
+    },
+    "category": "test",
+    "item": "test",
+    "qty": 123,
+    "price": 1230,
+    "description": "sdflksd"
+  }
+]

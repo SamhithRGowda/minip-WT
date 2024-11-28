@@ -1,0 +1,35 @@
+/* navbar.css */
+
+nav {
+  background-color: rgba(255, 255, 255, 0.5); 
+  padding: 15px; /* Increase padding for a bigger navbar */
+  font-family:'Times New Roman', Times, serif;
+  margin-bottom: 50px; /* Add margin at the bottom to cover the area on top */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  outline: 10px black;
+
+}
+
+li {
+  margin-right: 30px; /* Adjust margin for more spacing between navbar items */
+
+}
+
+a {
+  text-decoration: none;
+  color: #1c2432;
+  font-weight: bold;
+  font-size: 22px; /* Increase font size for better visibility */
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #6a7280;
+}
